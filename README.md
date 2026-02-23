@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EduardoHAnacleto, 30 years old, brazilian. Post-Study Work-Visa based in Auckland, New Zealand.
-- 🌱 .Net Software Developer
+- 👋 Hi, I’m @EduardoHAnacleto. Currently with Post-Study Work-Visa based in Auckland, New Zealand.
+- 🌱 .Net / Vue / Python / Angular / Javascript | Full-stack Software Developer
 - Master of Data Science (2025)
 - Bachelor of Information System (2023)
 - 💞️ I’m looking to collaborate on any projects you may send my way!
